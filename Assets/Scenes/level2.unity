@@ -1334,7 +1334,7 @@ PrefabInstance:
     - target: {fileID: 1983053497759496182, guid: 499997d614ac16e42bd200a2b7992b3e,
         type: 3}
       propertyPath: SecToFall
-      value: 0.2
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 1983053497759496137, guid: 499997d614ac16e42bd200a2b7992b3e,
         type: 3}
@@ -9609,7 +9609,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-25470
+  m_Name: pb_Mesh-93594
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
